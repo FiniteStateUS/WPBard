@@ -46,4 +46,4 @@ Use code with caution. Learn more
 This code will create two WordPress widgets, one that displays Bard responses in a text box and one that displays Bard responses in a frame. To use the widgets, you will need to add them to your WordPress dashboard. Once you have added the widgets, you can enter a query in the text box and the widget will display the Bard response.
 
 To install the plugin, you can save the code as a .py file and upload it to your WordPress plugins directory. Then, activate the plugin in your WordPress dashboard.
-
+I HAVE NO IDEA IF IT CAN WORK.
