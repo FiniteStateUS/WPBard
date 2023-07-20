@@ -19,7 +19,7 @@ def wpb_bard_widget():
   output = response["text"]
   return """
     <div>
-      <h2>Bard</h2>
+      <h2>BardWP</h2>
       <p>Enter a query below to get a response from Bard.</p>
       {query}
       <p>{output}</p>
